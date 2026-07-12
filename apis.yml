@@ -23,6 +23,12 @@ apis:
       - type: Documentation
         url: https://poststack.dev/docs
 common:
+  - type: TrustCenter
+    url: security/poststack-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/poststack-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/poststack-domain-security.yml
   - type: Website
     url: https://poststack.dev/docs
   - type: PublicAPIsListing
