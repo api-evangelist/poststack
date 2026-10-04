@@ -39,7 +39,6 @@ apis:
   - name: PostStack
     description: "EU-hosted email API for transactional and marketing email, with contacts, broadcasts, and analytics"
     humanURL: https://poststack.dev/docs
-    baseURL: https://poststack.dev/docs
     tags:
       - Email
     properties:
